@@ -1,0 +1,12 @@
+# Работа с postgres
+psycopg2==2.9.9
+# Логи
+loguru==0.7.2
+
+# Библиотека fastapi
+fastapi==0.103.2
+
+# Создание запросов
+requests==2.31.0
+
+pydantic~=2.8.2
