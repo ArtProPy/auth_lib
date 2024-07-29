@@ -1,7 +1,3 @@
-[project]
-name = 'course'
-requires-python = '>=3.11'
-
 [tool.black]
 line-length = 85
 skip-string-normalization = true
