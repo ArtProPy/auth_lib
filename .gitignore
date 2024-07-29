@@ -1,0 +1,9 @@
+*/.env
+*.db
+/files/
+/output/
+/.coverage
+/tests/instruction
+__pycache__/
+.idea/
+logs/
