@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='auth_lib',
-    version='0.0.2a',
+    version='0.0.4',
     packages=find_packages(),
     description='Авторизация пользователя',
     author='Art Pro',

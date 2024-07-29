@@ -1,4 +1,4 @@
-*/.env
+../conf/.env
 *.db
 /files/
 /output/

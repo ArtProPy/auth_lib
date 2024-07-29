@@ -1,7 +1,7 @@
 import requests
 from fastapi.routing import APIRouter
 
-from conf.settings import URL_AUTH_LOGIN_API
+from src.conf.settings import URL_AUTH_LOGIN_API
 from src.auth_lib.serializers import BaseAuthValidator
 
 router = APIRouter()
