@@ -1,7 +1,5 @@
 # Работа с postgres
 psycopg2==2.9.9
-# Логи
-loguru==0.7.2
 
 # Библиотека fastapi
 fastapi==0.103.2
